@@ -3,3 +3,5 @@ The train model was then used to predict unseen resumes
 
 Python libraries used:
 numpy, nltk, pandas, streamlit, pickle
+
+The application was made using streamlit python library. 
